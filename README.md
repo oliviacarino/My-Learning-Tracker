@@ -58,7 +58,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![In Progress][In Progress] | AUG 2019 | [Eloquent JavaScript]                                           | [Marjin Haverbeke]                    |          |
 | ![In Progress][In Progress] | AUG 2019 | [HTML & CSS]                                                    | [Jon Duckett]                                   |                             |
 | ![In Progress][In Progress] | JUL 2019 | [Basic Front End Development Projects]                          | [Free Code Camp]                               |
-| ![In Progress][In Progress] | 2017     | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |          |
+| ![In Progress][In Progress] |     TBD  | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |          |
 | ![Soon][Soon[]              | [JavaScript & Jquery]                                                      | [Jon Duckett]                                   |
 | ![In Progress][In Progress] |          | [Front End Development]                                         | [Free Code Camp]                              
 [//]: # (Reference links to courses)
