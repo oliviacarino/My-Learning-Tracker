@@ -161,6 +161,12 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 
 
 * [x] Open the computer’s terminal
+* [ ] Get an internship
+* [ ] Reach out to local businesses and offer to redo their website (for free)
+* [ ] Contriubte to an open source project
+* [ ] DM 3 people on Twitter awho do what you want to do. Learn from them
+* [ ] Build 1 project that solves an everyday problem for you (post on GitHub)
+* [ ] Pin 4 projects to your GitHub profile
 * [x] Use a text editor (bonus points if you have a specific reason for choosing it)
 * [x] Use some keyboard shortcuts
 * [ ] Write tests for your code
