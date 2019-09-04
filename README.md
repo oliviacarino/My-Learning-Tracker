@@ -35,7 +35,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Markdown**                      |                   |               |               |                  |                |                 |
 |**Website Building**              |                   |               |               |                  |                |                 |
 |**Publishing website**            |                   |               |               |                  |                |                 |
-|**Bootstrap**                     |  ![done][done]    |               |               |                  |                |                 |
+|**Bootstrap**                     |  ![done][done]    | ![done][done] |               |                  |                |                 |
 |**Command line**                  |                   |               |               |                  |                |                 |
 |**Node.js**                       |                   |               |               |                  |                |                 |
 |**NPM**                           |                   |               |               |                  |                |                 |
