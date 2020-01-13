@@ -29,7 +29,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Stylus**                        |                   |               |               |                  |                |                 |
 |**Working with APIs**             |                   |               |               |                  |                |                 |
 |**jQuery**                        | ![done][done]     |               |               |                  |                |                 |
-|**Css Grid & Flex-box**           |                   |               |               |                  |                |                 |
+|**Css Grid & Flex-box**           | ![done][done]     |               |               |                  |                |                 |
 |**Responsive design**             |                   |               |               |                  |                |                 |
 |**Mobile first**                  |                   |               |               |                  |                |                 |
 |**Progressive Enhancement**       |                   |               |               |                  |                |                 |
