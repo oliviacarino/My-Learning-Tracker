@@ -15,19 +15,21 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**HTML5**                         | ![done][done]     | ![done][done] |  ![done][done]|                  |                |                 |
 |**CSS3**                          | ![done][done]     | ![done][done] |  ![done][done]|                  |                |                 |
 |**JavaScript**                    | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Swift**                         | ![done][done]     |               |               |                  |                |
+              |
 |**ES6**                           |                   |               |               |                  |                |                 |
 |**React**                         |                   |               |               |                  |                |                 |
 |**Redux**                         |                   |               |               |                  |                |                 |
 |**Backbone**                      |                   |               |               |                  |                |                 |
 |**Git**                           |                   |               |               |                  |                |                 |
 |**Git bash**                      |                   |               |               |                  |                |                 |
-|**GitHub**                        |                   |               |               |                  |                |                 |
+|**GitHub**                        | ![done][done]     |               |               |                  |                |                 |
 |**Bitbucket**                     |                   |               |               |                  |                |                 |
 |**Gulp/Webpack**                  |                   |               |               |                  |                |                 |
 |**Agile**                         |                   |               |               |                  |                |                 |
 |**Stylus**                        |                   |               |               |                  |                |                 |
 |**Working with APIs**             |                   |               |               |                  |                |                 |
-|**jQuery**                        |                   |               |               |                  |                |                 |
+|**jQuery**                        | ![done][done]     |               |               |                  |                |                 |
 |**Css Grid & Flex-box**           |                   |               |               |                  |                |                 |
 |**Responsive design**             |                   |               |               |                  |                |                 |
 |**Mobile first**                  |                   |               |               |                  |                |                 |
@@ -170,8 +172,8 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Use a text editor (bonus points if you have a specific reason for choosing it)
 * [x] Use some keyboard shortcuts
 * [ ] Write tests for your code
-* [ ] Help another web developer with something they’re having trouble with
-* [ ] Attend an event about web development
+* [x] Help another web developer with something they’re having trouble with
+* [x] Attend an event about web development
 * [x] Follow developers you admire on social media
 * [X] Read a book about coding
 * [x] Open your browser console
