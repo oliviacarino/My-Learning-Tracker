@@ -30,7 +30,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Working with APIs**             |                   |               |               |                  |                |                 |
 |**jQuery**                        | ![done][done]     |               |               |                  |                |                 |
 |**Css Grid & Flex-box**           | ![done][done]     |               |               |                  |                |                 |
-|**Responsive design**             |                   |               |               |                  |                |                 |
+|**Responsive design**             | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Mobile first**                  |                   |               |               |                  |                |                 |
 |**Progressive Enhancement**       |                   |               |               |                  |                |                 |
 |**Markdown**                      |                   |               |               |                  |                |                 |
